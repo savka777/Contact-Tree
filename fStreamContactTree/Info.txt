@@ -1,0 +1,336 @@
+---------TRACING INFORMATION---------
+Medical ID: Savva
+Direct Contacts : 3
+Total Cases: 12
+---------TRACING INFORMATION---------
+Medical ID: Michelle
+Direct Contacts : 3
+Total Cases: 9
+---------TRACING INFORMATION---------
+Medical ID: John
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Juan
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Kevin
+Direct Contacts : 2
+Total Cases: 6
+---------TRACING INFORMATION---------
+Medical ID: Kiril
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Michael
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Monica
+Direct Contacts : 1
+Total Cases: 4
+---------TRACING INFORMATION---------
+Medical ID: Patrick
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Shuyuan
+Direct Contacts : 1
+Total Cases: 3
+---------TRACING INFORMATION---------
+Medical ID: Ema
+Direct Contacts : 1
+Total Cases: 2
+---------TRACING INFORMATION---------
+Medical ID: Zoran
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Savva
+Direct Contacts : 3
+Total Cases: 12
+---------TRACING INFORMATION---------
+Medical ID: Michelle
+Direct Contacts : 3
+Total Cases: 9
+---------TRACING INFORMATION---------
+Medical ID: John
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Juan
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Kevin
+Direct Contacts : 2
+Total Cases: 6
+---------TRACING INFORMATION---------
+Medical ID: Kiril
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Michael
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Monica
+Direct Contacts : 1
+Total Cases: 4
+---------TRACING INFORMATION---------
+Medical ID: Patrick
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Shuyuan
+Direct Contacts : 1
+Total Cases: 3
+---------TRACING INFORMATION---------
+Medical ID: Ema
+Direct Contacts : 1
+Total Cases: 2
+---------TRACING INFORMATION---------
+Medical ID: Zoran
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Savva
+Direct Contacts : 3
+Total Cases: 12
+---------TRACING INFORMATION---------
+Medical ID: Michelle
+Direct Contacts : 3
+Total Cases: 9
+---------TRACING INFORMATION---------
+Medical ID: John
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Juan
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Kevin
+Direct Contacts : 2
+Total Cases: 6
+---------TRACING INFORMATION---------
+Medical ID: Kiril
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Michael
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Monica
+Direct Contacts : 1
+Total Cases: 4
+---------TRACING INFORMATION---------
+Medical ID: Patrick
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Shuyuan
+Direct Contacts : 1
+Total Cases: 3
+---------TRACING INFORMATION---------
+Medical ID: Ema
+Direct Contacts : 1
+Total Cases: 2
+---------TRACING INFORMATION---------
+Medical ID: Zoran
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Savva
+Direct Contacts : 3
+Total Cases: 12
+---------TRACING INFORMATION---------
+Medical ID: Michelle
+Direct Contacts : 3
+Total Cases: 9
+---------TRACING INFORMATION---------
+Medical ID: John
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Juan
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Kevin
+Direct Contacts : 2
+Total Cases: 6
+---------TRACING INFORMATION---------
+Medical ID: Kiril
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Michael
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Monica
+Direct Contacts : 1
+Total Cases: 4
+---------TRACING INFORMATION---------
+Medical ID: Patrick
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Shuyuan
+Direct Contacts : 1
+Total Cases: 3
+---------TRACING INFORMATION---------
+Medical ID: Ema
+Direct Contacts : 1
+Total Cases: 2
+---------TRACING INFORMATION---------
+Medical ID: Zoran
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Savva
+Direct Contacts : 3
+Total Cases: 12
+---------TRACING INFORMATION---------
+Medical ID: Michelle
+Direct Contacts : 3
+Total Cases: 9
+---------TRACING INFORMATION---------
+Medical ID: John
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Juan
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Kevin
+Direct Contacts : 2
+Total Cases: 6
+---------TRACING INFORMATION---------
+Medical ID: Kiril
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Michael
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Monica
+Direct Contacts : 1
+Total Cases: 4
+---------TRACING INFORMATION---------
+Medical ID: Patrick
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Shuyuan
+Direct Contacts : 1
+Total Cases: 3
+---------TRACING INFORMATION---------
+Medical ID: Ema
+Direct Contacts : 1
+Total Cases: 2
+---------TRACING INFORMATION---------
+Medical ID: Zoran
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Savva
+Direct Contacts : 3
+Total Cases: 12
+---------TRACING INFORMATION---------
+Medical ID: Michelle
+Direct Contacts : 3
+Total Cases: 9
+---------TRACING INFORMATION---------
+Medical ID: John
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Juan
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Kevin
+Direct Contacts : 2
+Total Cases: 6
+---------TRACING INFORMATION---------
+Medical ID: Kiril
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Michael
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Monica
+Direct Contacts : 1
+Total Cases: 4
+---------TRACING INFORMATION---------
+Medical ID: Patrick
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Shuyuan
+Direct Contacts : 1
+Total Cases: 3
+---------TRACING INFORMATION---------
+Medical ID: Ema
+Direct Contacts : 1
+Total Cases: 2
+---------TRACING INFORMATION---------
+Medical ID: Zoran
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Savva
+Direct Contacts : 3
+Total Cases: 12
+---------TRACING INFORMATION---------
+Medical ID: Michelle
+Direct Contacts : 3
+Total Cases: 9
+---------TRACING INFORMATION---------
+Medical ID: John
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Juan
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Kevin
+Direct Contacts : 2
+Total Cases: 6
+---------TRACING INFORMATION---------
+Medical ID: Kiril
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Michael
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Monica
+Direct Contacts : 1
+Total Cases: 4
+---------TRACING INFORMATION---------
+Medical ID: Patrick
+Direct Contacts : 0
+Total Cases: 1
+---------TRACING INFORMATION---------
+Medical ID: Shuyuan
+Direct Contacts : 1
+Total Cases: 3
+---------TRACING INFORMATION---------
+Medical ID: Ema
+Direct Contacts : 1
+Total Cases: 2
+---------TRACING INFORMATION---------
+Medical ID: Zoran
+Direct Contacts : 0
+Total Cases: 1
